@@ -1,1 +1,3 @@
-# Earthquake-Explore-Project
+# Earthquake Explore Project
+**本项目是为地震研究与探索而开启的项目**
+在研究过程中，我们会将部分研究时开发的部分代码开源，以方便其他地震研究爱好者或对这方面感兴趣的朋友参考使用
